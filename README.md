@@ -7,7 +7,8 @@
 
 ## Description
 This project is the design of the MovieSurfer App. User can explore and discover the most popular, the highest rated and the most rated movies.
-All in real time  in Surfer Web App
+All in real time  in Surfer Web App.
+It fetched movies from the third party Api : https://api.themoviedb.org
 
 ## Features
 * Discover the most popular, the highest rated and the most rated movies
