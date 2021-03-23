@@ -39,7 +39,7 @@ Project is created with:
 	
 ## Setup
 To run this project:
-* clone the repository :
+* clone the repository in cmd  : git clone https://github.com/sakshamsrivastava0707/MovieSurferApp
 * install live extention on your favorite text-Editor and run it.
 
 
