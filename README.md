@@ -1,7 +1,8 @@
 
 ## Table of contents
-* [General info](#general-info)
+* [Description](#Description)
 * [Technologies](#technologies)
+* [ScreenShot](#ScreenShot)
 * [Setup](#setup)
 
 ## Description
@@ -22,8 +23,7 @@ All in real time  in Surfer Web App
 * Localization.
  
 * Detail page.
-* [Technologies](#technologies)
-* [Setup](#setup)
+
 	
 ## Technologies
 Project is created with:
@@ -31,12 +31,15 @@ Project is created with:
 * CSS
 * Javascript: Standard ES6 
 
+## ScreenShot
 ![Demo schema](./demoImage/movieScreenShot.PNG)
 ![Demo schema1](./demoImage/movieSurfer.PNG)
 
 	
 ## Setup
-To run this project, install live extention on your favorite text-Editor and run it.
+To run this project:
+* clone the repository :
+* install live extention on your favorite text-Editor and run it.
 
 
 
