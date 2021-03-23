@@ -30,6 +30,10 @@ Project is created with:
 * HTML5
 * CSS
 * Javascript: Standard ES6 
+
+![Demo schema](./demoImage/movieScreenShot.PNG)
+![Demo schema1](./demoImage/movieSurfer.PNG)
+
 	
 ## Setup
 To run this project, install live extention on your favorite text-Editor and run it.
